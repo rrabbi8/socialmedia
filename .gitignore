@@ -1,5 +1,6 @@
 ### react ###
 .DS_*
+.DS_Store
 *.log
 logs
 **/*.backup.*
@@ -13,3 +14,5 @@ bower_components
 psd
 thumb
 sketch
+server/.DS_Store
+server/.DS_Store
