@@ -35,7 +35,9 @@ Install dependencies
 Start the server
 
 ```bash
-  1. Start the server by navigating to the `/server` folder, and run the following command `npm run start`
-  2. In another terminal window, navigate to the `/client` folder, and run the following command `npm run start`
+  1. Start the server by navigating to the `/server` folder, and run 
+  the following command `npm run start`
+  2. In another terminal window, navigate to the `/client` folder, and run 
+  the following command `npm run start`
 ```
 
