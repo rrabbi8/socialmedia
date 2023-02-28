@@ -8,7 +8,7 @@ A simple social media app
 
 **Client:** React, Redux
 
-**Server:** Node.js, Express
+**Server:** Node.js, Express, MongoDB
 
 
 ## Run Locally
