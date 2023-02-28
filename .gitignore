@@ -1,6 +1,7 @@
 ### react ###
 .DS_*
 .DS_Store
+.env
 *.log
 logs
 **/*.backup.*
